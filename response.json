@@ -1,0 +1,1 @@
+{"errorMessage": "'detail'", "errorType": "KeyError", "requestId": "293ecfce-2b7b-42a9-8627-3477bcfb0b17", "stackTrace": ["  File \"/var/task/lambda_function.py\", line 29, in lambda_handler\n    s3_source_bucket_name = event['detail']['requestParameters']['bucketName']\n"]}
